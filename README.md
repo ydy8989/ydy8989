@@ -11,7 +11,10 @@
 - **MATH** : Graph Theory, Partially Ordered SET
 - **ML / DL** : NLP, Graph Neural Network
 
-### 💻 Skills : <p><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a><a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a></p>
+### 💻 Skills : 
+- Python [![d](https://img.shields.io/badge/-white?style=flat-square&logo=python&link=https://www.python.org)](https://www.python.org)
+- Pytorch [![d](https://img.shields.io/badge/-white?style=flat-square&logo=pytorch&link=https://pytorch.org)](https://pytorch.org)
+- Tensorflow [![d](https://img.shields.io/badge/-white?style=flat-square&logo=tensorflow&link=https://www.tensorflow.org)](https://www.tensorflow.org)
 
 
 ### 📬 About me
