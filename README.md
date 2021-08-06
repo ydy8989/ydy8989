@@ -12,7 +12,7 @@
 - **ML / DL** : NLP, Graph Neural Network
 
 ### 💻 Skills : 
-- [![Python](https://img.shields.io/badge/-Python-1b223b?style=flat-square&logo=python&link=https://www.python.org)](https://www.python.org)[![Pytorch ](https://img.shields.io/badge/-Pytorch-white?style=flat-square&logo=pytorch&link=https://pytorch.org)](https://pytorch.org)[![Tensorflow](https://img.shields.io/badge/-Tensorflow%20v2-246bc4?style=flat-square&logo=tensorflow&link=https://www.tensorflow.org)](https://www.tensorflow.org)
+- [![Python](https://img.shields.io/badge/-Python-1b223b?style=round&logo=python&link=https://www.python.org)](https://www.python.org) [![Pytorch ](https://img.shields.io/badge/-Pytorch-white?style=round&logo=pytorch&link=https://pytorch.org)](https://pytorch.org) [![Tensorflow](https://img.shields.io/badge/-Tensorflow%20v2-246bc4?style=round&logo=tensorflow&link=https://www.tensorflow.org)](https://www.tensorflow.org)
 
 
 ### 📬 About me
