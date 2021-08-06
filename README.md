@@ -11,11 +11,13 @@
 - **MATH** : Graph Theory, Partially Ordered SET
 - **ML / DL** : NLP, Graph Neural Network
 
+### 💻 Skills : 
+- [![Python](https://img.shields.io/badge/-Python-1b223b?style=flat-square&logo=python&link=https://www.python.org)](https://www.python.org)[![Pytorch ](https://img.shields.io/badge/-Pytorch-white?style=flat-square&logo=pytorch&link=https://pytorch.org)](https://pytorch.org)[![Tensorflow](https://img.shields.io/badge/-Tensorflow%20v2-246bc4?style=flat-square&logo=tensorflow&link=https://www.tensorflow.org)](https://www.tensorflow.org)
 
 
 ### 📬 About me
 
-- [![Notion Badge](https://img.shields.io/badge/Notion-black?style=round&logo=Notion&logoColor=white&link=mailto:snugyun01@gmail.com)](https://www.notion.so/whydo/Doyeon-Yoon-05603016086c4b3ca954cf2b6c64e46f) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/doyeon-yoon/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=round&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:ydy89899@gmail.com) [![Blog Badge](https://camo.githubusercontent.com/8155432542abd6ce5695cd1e1b5ac66e02769341a9486cb81419965668a54d8f/687474703a2f2f696d672e736869656c64732e696f2f62616467652f426c6f672d626c61636b3f7374796c653d666c6174266c6f676f3d676974687562266c696e6b3d68747470733a2f2f696e6d6f6f6e6c696768742e6769746875622e696f2f)](https://ydy8989.github.io/)
+- [![Tech Blog Badge](http://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion&link=https://www.notion.so/whydo/Doyeon-Yoon-05603016086c4b3ca954cf2b6c64e46f)](https://www.notion.so/whydo/Doyeon-Yoon-05603016086c4b3ca954cf2b6c64e46f) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/doyeon-yoon/)](https://www.linkedin.com/in/doyeon-yoon/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ydy89899@gmail.com)](mailto:ydy89899@gmail.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ydy8989.github.io)](https://ydy8989.github.io)
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=ydy8989&show_icons=true&hide_border=true&theme=radical)](https://github.com/ydy8989)
 
