@@ -7,8 +7,9 @@
 
 ### 🚀 Interests
 
+- **ML / DL** : NLP, LLM, MLOps, RecSys
 - **MATH** : Graph Theory, Partially Ordered SET
-- **ML / DL** : NLP, Graph Neural Network
+
 
 ### 💻 Skills : 
 - [![Python](https://img.shields.io/badge/-Python-1b223b?style=round&logo=python&link=https://www.python.org)](https://www.python.org) [![Pytorch ](https://img.shields.io/badge/-Pytorch-white?style=round&logo=pytorch&link=https://pytorch.org)](https://pytorch.org) [![Docker](https://img.shields.io/badge/-Docker-1b223b?style=round&logo=docker&link=https://www.docker.com)](https://www.docker.com) [![Streamlit](https://img.shields.io/badge/-Streamlit-white?style=round&logo=streamlit&link=https://streamlit.io)](https://streamlit.io)
