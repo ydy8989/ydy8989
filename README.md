@@ -11,8 +11,8 @@
 - **ML / DL** : NLP, Graph Neural Network
 
 ### 💻 Skills : 
-- [![Python](https://img.shields.io/badge/-Python-1b223b?style=round&logo=python&link=https://www.python.org)](https://www.python.org) [![Pytorch ](https://img.shields.io/badge/-Pytorch-white?style=round&logo=pytorch&link=https://pytorch.org)](https://pytorch.org) [![Tensorflow](https://img.shields.io/badge/-Tensorflow%20v2-246bc4?style=round&logo=tensorflow&link=https://www.tensorflow.org)](https://www.tensorflow.org) [![Docker](https://img.shields.io/badge/-Docker-1b223b?style=round&logo=docker&link=https://www.docker.com)](https://www.docker.com) [![Streamlit](https://img.shields.io/badge/-Streamlit-white?style=round&logo=streamlit&link=https://streamlit.io)](https://streamlit.io)
-
+- [![Python](https://img.shields.io/badge/-Python-1b223b?style=round&logo=python&link=https://www.python.org)](https://www.python.org) [![Pytorch ](https://img.shields.io/badge/-Pytorch-white?style=round&logo=pytorch&link=https://pytorch.org)](https://pytorch.org) [![Docker](https://img.shields.io/badge/-Docker-1b223b?style=round&logo=docker&link=https://www.docker.com)](https://www.docker.com) [![Streamlit](https://img.shields.io/badge/-Streamlit-white?style=round&logo=streamlit&link=https://streamlit.io)](https://streamlit.io)
+- ETC : Langchain, Huggingface
 
 
 ### 📬 About me
